@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**hyunjinsshi/hyunjinsshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 Who am I?
+I am a **1st-year Applied Informatics student** who loves patterns—whether they are in a codebase or a crochet project. 🧶
+* 🎮 **Gamer:** Usually playing Teamfight Tactics.
+* 🎧 **Listener:** Mostly listening to Stray Kids.
+* 📖 **Reader:** Currently reading The Seven Husbands of Evelyn Hugo.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+* 🐍 Sharpening my **Python** fundamentals.
+* 🌐 Learning the basics of **HTML** and **JavaScript**.
+* 🛠️ Building small logic-based projects for my degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tools & Tech
+* **Languages:** Python, HTML5, JavaScript
+* **Editor:** VS Code
+* **Other:** Git, Yarn (the literal kind 🧶)
+
+### 📫 How to Reach Me
+* **Discord:** hyunjinsshi.h_
