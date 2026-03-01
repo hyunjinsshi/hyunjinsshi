@@ -4,7 +4,7 @@
 I am a **1st-year Applied Informatics student** who loves patterns—whether they are in a codebase or a crochet project. 🧶
 * 🎮 **Gamer:** Usually playing Teamfight Tactics.
 * 🎧 **Listener:** Mostly listening to Stray Kids.
-* 📖 **Reader:** Currently reading The Seven Husbands of Evelyn Hugo.
+* 📖 **Reader:** Currently reading Acotar series.
 
 ### 🔭 Currently Working On
 * 🐍 Sharpening my **Python** fundamentals.
