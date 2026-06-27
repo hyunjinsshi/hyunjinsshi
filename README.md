@@ -2,7 +2,7 @@
 
 ### 👤 Who am I?
 I am a **1st-year Applied Informatics student** who loves patterns—whether they are in a codebase or a crochet project. 🧶
-* 🎮 **Gamer:** Usually playing Teamfight Tactics.
+* 🎮 **Gamer:** Usually playing League.
 * 🎧 **Listener:** Mostly listening to Stray Kids.
 * 📖 **Reader:** Currently reading Acotar series.
 
